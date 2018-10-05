@@ -51,6 +51,7 @@
 \usepackage{cite}                      % needed to automatically sort the references
 \usepackage{tabu}                      % only used for the table example
 \usepackage{booktabs}                  % only used for the table example
+\usepackage{amsmath}
 %% We encourage the use of mathptmx for consistent usage of times font
 %% throughout the proceedings. However, if you encounter conflicts
 %% with other math-related packages, you may want to disable it.
@@ -330,11 +331,11 @@ In this way, we obtained the graphs shown in Figure~\ref{GIB-examples}.
   \caption{Parameters used for data generation}
   \label{parameters}
     \begin{tabular}{|c|c|c|c|c|c|} \hline
-      $m_{mean}$ & $m_{stdev}$ & $m_{min}$ & $m_{max}$ & $V_{mean}$ & $V_{stdev}$ \\ \hline 
+      $m_{\text{mean}}$ & $m_{\text{stdev}}$ & $m_{\text{min}}$ & $m_{\text{max} }$ & $V_{\text{mean}}$ & $V_{\text{stdev}}$ \\ \hline 
       11.4 & 5.4 & 6 & 17 & 21.0 & 14.12 \\ \hline
     \end{tabular}
     \begin{tabular}{|c|c|c|c|c|} \hline
-      $V_{min}$ & $p_{in}$ & $p_{group}$ & $p_{bridge}$ & $p_{out}$ \\ \hline
+      $V_{\text{min}}$ & $p_{\text{in}}$ & $p_{\text{group}}$ & $p_{\text{bridge}}$ & $p_{\text{out}}$ \\ \hline
       4 & 0.0858 & 0.06 & 0.015 & 0.0006 \\ \hline
     \end{tabular}
   \end{center}
@@ -511,7 +512,7 @@ Once the participants completed all the above steps, they proceeded to the actua
 They worked on the four tasks in random order to compensate for the leaning and fatigue effects, and 120 trials existed in the same task.
 For Tasks 2 and 3, we asked the participants two questions about the maximum or minimum: the first 60 trials asked for the maximum, and the last 60 trials asked for the minimum, where we permuted the trials so that each half had 15 networks for each layout in each task.
 
-There was no time limit on the tasks, and the answers were sent to our server.
+There was no time limit on the tasks, and the answers ere sent to our server.
 The participants were instructed to focus on answering correctly rather than the fast answer.
 If they focused on answering quickly, we were likely to encounter higher error rates and more chaotic gaze trajectories, which was not the intention of this study.
 The participants chose the solution by clicking and confirming it by pressing a button on a keyboard.
