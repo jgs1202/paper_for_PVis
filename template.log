@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.5)  3 OCT 2018 17:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.5)  5 OCT 2018 21:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -276,6 +276,64 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \@lastruleclass=\count100
 \@thisrulewidth=\dimen133
 )
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen134
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen135
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count101
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count102
+\leftroot@=\count103
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count104
+\DOTSCASE@=\count105
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box31
+\strutbox@=\box32
+\big@size=\dimen136
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count106
+\c@MaxMatrixCols=\count107
+\dotsspace@=\muskip10
+\c@parentequation=\count108
+\dspbrk@lvl=\count109
+\tag@help=\toks20
+\row@=\count110
+\column@=\count111
+\maxfields@=\count112
+\andhelp@=\toks21
+\eqnshift@=\dimen137
+\alignsep@=\dimen138
+\tagshift@=\dimen139
+\tagwidth@=\dimen140
+\totwidth@=\dimen141
+\lineht@=\dimen142
+\@envbody=\toks22
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
 
@@ -332,14 +390,14 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen134
-\Hy@linkcounter=\count101
-\Hy@pagecounter=\count102
+\@linkdim=\dimen143
+\Hy@linkcounter=\count113
+\Hy@pagecounter=\count114
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count103
+\Hy@SavedSpaceFactor=\count115
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -351,17 +409,17 @@ Package hyperref Info: Plain pages OFF on input line 4513.
 Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4751.
-\c@Hy@tempcnt=\count104
+\c@Hy@tempcnt=\count116
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip10
+\Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5104.
-\XeTeXLinkMargin=\dimen135
-\Fld@menulength=\count105
-\Field@Width=\dimen136
-\Fld@charsize=\dimen137
+\XeTeXLinkMargin=\dimen144
+\Fld@menulength=\count117
+\Field@Width=\dimen145
+\Fld@charsize=\dimen146
 Package hyperref Info: Hyper figures OFF on input line 6358.
 Package hyperref Info: Link nesting OFF on input line 6363.
 Package hyperref Info: Hyper index ON on input line 6366.
@@ -371,47 +429,47 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6383.
 Package hyperref Info: PDF/A mode OFF on input line 6388.
 LaTeX Info: Redefining \ref on input line 6428.
 LaTeX Info: Redefining \pageref on input line 6432.
-\Hy@abspage=\count106
-\c@Item=\count107
-\c@Hfootnote=\count108
+\Hy@abspage=\count118
+\c@Item=\count119
+\c@Hfootnote=\count120
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
-\Fld@listcount=\count109
-\c@bookmark@seq@number=\count110
+\Fld@listcount=\count121
+\c@bookmark@seq@number=\count122
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip52
+\Hy@SectionHShift=\skip55
 )
 
 Package hyperref Warning: Option `pdftex' has already been used,
-(hyperref)                setting the option has no effect on input line 68.
+(hyperref)                setting the option has no effect on input line 69.
 
 
 Package hyperref Warning: Option `pagebackref' has already been used,
-(hyperref)                setting the option has no effect on input line 68.
+(hyperref)                setting the option has no effect on input line 69.
 
-Package hyperref Info: Option `pageanchor' set `true' on input line 68.
-Package hyperref Info: Option `plainpages' set `false' on input line 68.
-Package hyperref Info: Option `hypertexnames' set `false' on input line 68.
+Package hyperref Info: Option `pageanchor' set `true' on input line 69.
+Package hyperref Info: Option `plainpages' set `false' on input line 69.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 69.
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 68.
+(hyperref)                setting the option has no effect on input line 69.
 
-Package hyperref Info: Option `bookmarksnumbered' set `false' on input line 68.
+Package hyperref Info: Option `bookmarksnumbered' set `false' on input line 69.
 
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 68.
-Package hyperref Info: Option `breaklinks' set `true' on input line 68.
-Package hyperref Info: Option `colorlinks' set `false' on input line 68.
-Package hyperref Info: Option `nesting' set `true' on input line 68.
-Package hyperref Info: Option `linktocpage' set `true' on input line 68.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 69.
+Package hyperref Info: Option `breaklinks' set `true' on input line 69.
+Package hyperref Info: Option `colorlinks' set `false' on input line 69.
+Package hyperref Info: Option `nesting' set `true' on input line 69.
+Package hyperref Info: Option `linktocpage' set `true' on input line 69.
 (./template.aux
 
 LaTeX Warning: Label `computation' multiply defined.
@@ -419,28 +477,28 @@ LaTeX Warning: Label `computation' multiply defined.
 )
 \openout1 = `template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 150.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 150.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 151.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 151.
 
  (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 150.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 151.
+LaTeX Font Info:    ... okay on input line 151.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 151.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ptm.fd
@@ -448,17 +506,17 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count111
-\scratchdimen=\dimen138
-\scratchbox=\box31
-\nofMPsegments=\count112
-\nofMParguments=\count113
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count114
-\MPscratchDim=\dimen139
-\MPnumerator=\count115
-\makeMPintoPDFobject=\count116
-\everyMPtoPDFconversion=\toks20
+\scratchcounter=\count123
+\scratchdimen=\dimen147
+\scratchbox=\box33
+\nofMPsegments=\count124
+\nofMParguments=\count125
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count126
+\MPscratchDim=\dimen148
+\MPnumerator=\count127
+\makeMPintoPDFobject=\count128
+\everyMPtoPDFconversion=\toks25
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -475,7 +533,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 150.
+LaTeX Info: Redefining \microtypecontext on input line 151.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -489,9 +547,8 @@ Package microtype Info: No adjustment of character kerning.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-\big@size=\dimen140
-\AtBeginShipoutBox=\box32
-Package hyperref Info: Link coloring OFF on input line 150.
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring OFF on input line 151.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -499,17 +556,17 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count117
+\c@section@level=\count129
 )
-LaTeX Info: Redefining \ref on input line 150.
-LaTeX Info: Redefining \pageref on input line 150.
-LaTeX Info: Redefining \nameref on input line 150.
+LaTeX Info: Redefining \ref on input line 151.
+LaTeX Info: Redefining \pageref on input line 151.
+LaTeX Info: Redefining \nameref on input line 151.
 
 (./template.out) (./template.out)
 \@outlinefile=\write3
 \openout3 = `template.out'.
 
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 159.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 160.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1phv.fd
@@ -520,88 +577,49 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 159.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 15
-9.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
-File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
-)
-Package microtype Info: Loading generic settings for font family
-(microtype)             `ztmcm' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 15
-9.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omlztmcm.fd
-File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 15
-9.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsztmcm.fd
-File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 15
-9.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omxztmcm.fd
-File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 159.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 159.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 159.
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 159.
-
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 159.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 159.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 160.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 159.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 160.
 LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <9> not available
-(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 159.
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 160.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 159.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 160.
+
+Underfull \hbox (badness 5050) in paragraph at lines 160--160
+\OT1/ptm/m/n/9 (+20) Visu-al-iza-tion techniques---Graph draw-ings; Human-cente
+red
+ []
 
 
 LaTeX Warning: Citation `Newman:2010:NI:1809753' on page 1 undefined on input l
-ine 163.
+ine 164.
 
 
 LaTeX Warning: Citation `girvan2002community' on page 1 undefined on input line
- 163.
+ 164.
 
 
 LaTeX Warning: Citation `newman2004detecting' on page 1 undefined on input line
- 163.
+ 164.
 
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
 
 LaTeX Warning: Citation `clauset2004finding' on page 1 undefined on input line 
-171.
+172.
 
 
 LaTeX Warning: Citation `wakita2007finding' on page 1 undefined on input line 1
-71.
+72.
 
 
-LaTeX Warning: Citation `lloyd1982least' on page 1 undefined on input line 171.
+LaTeX Warning: Citation `lloyd1982least' on page 1 undefined on input line 172.
 
 
 
 LaTeX Warning: Citation `navlakha2009finding' on page 1 undefined on input line
- 171.
+ 172.
 
 
 LaTeX Warning: Citation `rodrigues2011group' on page 1 undefined on input line 
@@ -658,6 +676,9 @@ LaTeX Warning: Citation `duchowski2007eye' on page 1 undefined on input line 19
 LaTeX Warning: Citation `kurzhals2014evaluating' on page 1 undefined on input l
 ine 192.
 
+
+LaTeX Warning: Citation `gibweb' on page 1 undefined on input line 199.
+
 <pictures/examples.png, id=108, 2132.96875pt x 1431.3475pt>
 File: pictures/examples.png Graphic file (type png)
 
@@ -666,352 +687,429 @@ Package pdftex.def Info: pictures/examples.png used on input line 203.
 (pdftex.def)             Requested size: 505.89pt x 339.46806pt.
 
 
-LaTeX Warning: Citation `fruchterman1991graph' on page 1 undefined on input lin
-e 213.
+LaTeX Warning: Citation `mcpherson2005discovering' on page 1 undefined on input
+ line 220.
 
 
-LaTeX Warning: Citation `harel2000fast' on page 1 undefined on input line 213.
-
-
-LaTeX Warning: Citation `koren2003drawing' on page 1 undefined on input line 21
-3.
-
-
-LaTeX Warning: Citation `hachul2004drawing' on page 1 undefined on input line 2
-13.
-
-
-LaTeX Warning: Citation `article' on page 1 undefined on input line 213.
+LaTeX Warning: Citation `Vehlow2017VisualizingGS' on page 1 undefined on input 
+line 222.
 
 [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
 
-LaTeX Warning: Citation `mcpherson2005discovering' on page 2 undefined on input
- line 215.
-
-
-LaTeX Warning: Citation `Vehlow2017VisualizingGS' on page 2 undefined on input 
-line 217.
-
-
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
-
-
 LaTeX Warning: Citation `rodrigues2011group' on page 2 undefined on input line 
-226.
+231.
 
 
 LaTeX Warning: Citation `chaturvedi2014group' on page 2 undefined on input line
- 226.
+ 231.
 
 
-LaTeX Warning: Citation `onoue2017optimal' on page 2 undefined on input line 22
-6.
+LaTeX Warning: Citation `onoue2017optimal' on page 2 undefined on input line 23
+1.
 
 
 LaTeX Warning: Citation `chaturvedi2014group' on page 2 undefined on input line
- 233.
+ 238.
 
 
-Underfull \vbox (badness 1406) has occurred while \output is active []
-
- [2 <./pictures/examples.png>]
-
-LaTeX Warning: Citation `burch2011evaluation' on page 3 undefined on input line
- 239.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-LaTeX Warning: Citation `pohl2009comparing' on page 3 undefined on input line 2
-39.
+
+LaTeX Warning: Citation `burch2011evaluation' on page 2 undefined on input line
+ 244.
 
 
-LaTeX Warning: Citation `netzel2014comparative' on page 3 undefined on input li
-ne 239.
+LaTeX Warning: Citation `pohl2009comparing' on page 2 undefined on input line 2
+44.
 
 
-LaTeX Warning: Citation `jianu2014display' on page 3 undefined on input line 23
-9.
+LaTeX Warning: Citation `netzel2014comparative' on page 2 undefined on input li
+ne 244.
 
 
-LaTeX Warning: Citation `7539393' on page 3 undefined on input line 239.
+LaTeX Warning: Citation `jianu2014display' on page 2 undefined on input line 24
+4.
 
 
-LaTeX Warning: Citation `burch2011evaluation' on page 3 undefined on input line
- 241.
+LaTeX Warning: Citation `7539393' on page 2 undefined on input line 244.
 
+
+LaTeX Warning: Citation `burch2011evaluation' on page 2 undefined on input line
+ 246.
+
+[2 <./pictures/examples.png>]
 
 LaTeX Warning: Citation `andrienko2012visual' on page 3 undefined on input line
- 243.
+ 248.
 
 
 LaTeX Warning: Citation `kurzhals2014evaluating' on page 3 undefined on input l
-ine 243.
+ine 248.
 
 
 LaTeX Warning: Citation `duchowski2007eye' on page 3 undefined on input line 24
-3.
+8.
 
 
 LaTeX Warning: Citation `bruls2000squarified' on page 3 undefined on input line
- 256.
+ 261.
 
 
 LaTeX Warning: Citation `rodrigues2011group' on page 3 undefined on input line 
-256.
+261.
 
 
 LaTeX Warning: Citation `shneiderman1992tree' on page 3 undefined on input line
- 257.
+ 262.
 
 
 LaTeX Warning: Citation `bruls2000squarified' on page 3 undefined on input line
- 260.
+ 265.
 
 
-LaTeX Warning: Citation `468391' on page 3 undefined on input line 262.
+LaTeX Warning: Citation `468391' on page 3 undefined on input line 267.
 
 
 LaTeX Warning: Citation `purchase1997aesthetic' on page 3 undefined on input li
-ne 262.
+ne 267.
 
 
 LaTeX Warning: Citation `purchase1998performance' on page 3 undefined on input 
-line 262.
+line 267.
 
 
 LaTeX Warning: Citation `purchase2002empirical' on page 3 undefined on input li
-ne 262.
+ne 267.
 
 
 LaTeX Warning: Citation `chaturvedi2014group' on page 3 undefined on input line
- 266.
+ 271.
 
 
-LaTeX Warning: Citation `468391' on page 3 undefined on input line 275.
+LaTeX Warning: Citation `468391' on page 3 undefined on input line 280.
 
 
 LaTeX Warning: Citation `purchase1997aesthetic' on page 3 undefined on input li
-ne 275.
+ne 280.
 
 
 LaTeX Warning: Citation `purchase1998performance' on page 3 undefined on input 
-line 275.
+line 280.
 
 
 LaTeX Warning: Citation `purchase2002empirical' on page 3 undefined on input li
-ne 275.
+ne 280.
 
 
 LaTeX Warning: Citation `bruls2000squarified' on page 3 undefined on input line
- 276.
+ 281.
 
 
 LaTeX Warning: Citation `chaturvedi2014group' on page 3 undefined on input line
- 279.
+ 284.
 
 
 LaTeX Warning: Citation `gansner2008efficient' on page 3 undefined on input lin
-e 283.
+e 287.
 
 
-LaTeX Warning: Citation `harel2002graph' on page 3 undefined on input line 285.
+LaTeX Warning: Citation `harel2002graph' on page 3 undefined on input line 289.
 
 
 
 LaTeX Warning: Citation `chaturvedi2014group' on page 3 undefined on input line
- 286.
+ 290.
 
 
 LaTeX Warning: Citation `Hachul:2005:ECF:2102325.2102348' on page 3 undefined o
-n input line 286.
+n input line 290.
 
 
 LaTeX Warning: Citation `Hachul2007LargeGraphLA' on page 3 undefined on input l
-ine 286.
+ine 290.
 
 
-LaTeX Warning: Citation `harel2002graph' on page 3 undefined on input line 286.
+LaTeX Warning: Citation `harel2002graph' on page 3 undefined on input line 290.
 
 
 
-LaTeX Warning: Citation `koren2003drawing' on page 3 undefined on input line 28
-6.
+LaTeX Warning: Citation `koren2003drawing' on page 3 undefined on input line 29
+0.
 
 
 LaTeX Warning: Citation `onoue2017optimal' on page 3 undefined on input line 29
-2.
+6.
 
 
-LaTeX Warning: Citation `onoue2017optimal' on page 3 undefined on input line 30
+LaTeX Warning: Citation `onoue2017optimal' on page 3 undefined on input line 31
+7.
+
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 31
+8.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `ztmcm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 31
 8.
 
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 31
+8.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 31
+8.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 310.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 318.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 318.
+
 
 LaTeX Warning: Citation `chaturvedi2014group' on page 3 undefined on input line
- 312.
+ 320.
 
 [3]
 
 LaTeX Warning: Citation `chaturvedi2014group' on page 4 undefined on input line
- 355.
+ 363.
 
 
 LaTeX Warning: Citation `doi:10.1177/1473871612455749' on page 4 undefined on i
-nput line 370.
+nput line 375.
 
 
 LaTeX Warning: Citation `shneiderman1992tree' on page 4 undefined on input line
- 376.
+ 381.
 
 
 LaTeX Warning: Citation `bruls2000squarified' on page 4 undefined on input line
- 383.
+ 387.
 
-<pictures/computation.png, id=137, 530.98375pt x 387.4475pt>
+<pictures/computation.png, id=139, 1010.77625pt x 739.76375pt>
 File: pictures/computation.png Graphic file (type png)
 
 <use pictures/computation.png>
-Package pdftex.def Info: pictures/computation.png used on input line 391.
-(pdftex.def)             Requested size: 242.82503pt x 177.1875pt.
+Package pdftex.def Info: pictures/computation.png used on input line 393.
+(pdftex.def)             Requested size: 252.94499pt x 185.12108pt.
 
-Overfull \hbox (1.88004pt too wide) in paragraph at lines 391--392
+Overfull \hbox (12.0pt too wide) in paragraph at lines 393--394
  [] 
  []
 
-[4 <./pictures/computation.png>]
+
+Underfull \vbox (badness 3354) has occurred while \output is active []
+
+ [4 <./pictures/computation.png>]
 
 LaTeX Warning: Citation `Vehlow2017VisualizingGS' on page 5 undefined on input 
-line 421.
+line 424.
 
 
-LaTeX Warning: Citation `saket2014group' on page 5 undefined on input line 421.
+LaTeX Warning: Citation `saket2014group' on page 5 undefined on input line 424.
 
 
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 432.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
 
 LaTeX Warning: Citation `chaturvedi2014group' on page 5 undefined on input line
- 455.
+ 458.
 
-[5] <pictures/screenshot.png, id=157, 1613.02625pt x 833.1125pt>
+[5] <pictures/screenshot.png, id=159, 1613.02625pt x 833.1125pt>
 File: pictures/screenshot.png Graphic file (type png)
 
 <use pictures/screenshot.png>
-Package pdftex.def Info: pictures/screenshot.png used on input line 521.
+Package pdftex.def Info: pictures/screenshot.png used on input line 524.
 (pdftex.def)             Requested size: 227.64894pt x 117.57565pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Citation `olsen2012tobii' on page 6 undefined on input line 534.
 
 
-LaTeX Warning: Citation `olsen2012tobii' on page 6 undefined on input line 531.
 
+LaTeX Warning: Reference `eyetrack' on page 6 undefined on input line 549.
 
-<pictures/results.png, id=158, 1170.3725pt x 500.87125pt>
+<pictures/results.png, id=161, 1134.2375pt x 480.79625pt>
 File: pictures/results.png Graphic file (type png)
 
 <use pictures/results.png>
-Package pdftex.def Info: pictures/results.png used on input line 556.
-(pdftex.def)             Requested size: 505.89pt x 216.50154pt.
+Package pdftex.def Info: pictures/results.png used on input line 562.
+(pdftex.def)             Requested size: 505.89pt x 214.44151pt.
  [6 <./pictures/screenshot.png>]
 
 LaTeX Warning: Citation `andrienko2012visual' on page 7 undefined on input line
- 623.
+ 629.
 
 
 LaTeX Warning: Citation `duchowski2007eye' on page 7 undefined on input line 62
-3.
+9.
 
 
 LaTeX Warning: Citation `kurzhals2014evaluating' on page 7 undefined on input l
-ine 623.
+ine 629.
 
-[7 <./pictures/results.png>]
-Overfull \hbox (3.95656pt too wide) in paragraph at lines 673--678
+
+LaTeX Warning: Reference `gazecount' on page 7 undefined on input line 633.
+
+
+Overfull \hbox (3.95656pt too wide) in paragraph at lines 641--646
  [] 
  []
 
-<pictures/cd-tr-in2.png, id=187, 1042.89626pt x 367.3725pt>
+
+LaTeX Warning: Reference `gazecount' on page 7 undefined on input line 649.
+
+[7 <./pictures/results.png>]
+<pictures/cd-tr-in2.png, id=191, 1042.89626pt x 367.3725pt>
 File: pictures/cd-tr-in2.png Graphic file (type png)
 
 <use pictures/cd-tr-in2.png>
-Package pdftex.def Info: pictures/cd-tr-in2.png used on input line 710.
+Package pdftex.def Info: pictures/cd-tr-in2.png used on input line 660.
 (pdftex.def)             Requested size: 242.82503pt x 85.53653pt.
 
-Overfull \hbox (1.88004pt too wide) in paragraph at lines 710--711
+Overfull \hbox (1.88004pt too wide) in paragraph at lines 660--661
  [] 
  []
 
-<pictures/concentration.png, id=188, 521.95pt x 337.26pt>
+<pictures/concentration.png, id=194, 521.95pt x 337.26pt>
 File: pictures/concentration.png Graphic file (type png)
 
 <use pictures/concentration.png>
-Package pdftex.def Info: pictures/concentration.png used on input line 718.
-(pdftex.def)             Requested size: 202.3529pt x 130.7538pt.
- [8]
+Package pdftex.def Info: pictures/concentration.png used on input line 714.
+(pdftex.def)             Requested size: 166.94463pt x 107.87393pt.
+ [8 <./pictures/cd-tr-in2.png> <./pictures/concentration.png>]
 
 LaTeX Warning: Citation `Vehlow2017VisualizingGS' on page 9 undefined on input 
-line 749.
+line 758.
 
 
-LaTeX Warning: Citation `saket2014group' on page 9 undefined on input line 749.
+LaTeX Warning: Citation `saket2014group' on page 9 undefined on input line 758.
 
 
-<pictures/website.png, id=198, 1159.33125pt x 758.835pt>
+
+LaTeX Warning: Citation `gibweb' on page 9 undefined on input line 781.
+
+<pictures/website.png, id=209, 1159.33125pt x 758.835pt>
 File: pictures/website.png Graphic file (type png)
 
 <use pictures/website.png>
-Package pdftex.def Info: pictures/website.png used on input line 785.
+Package pdftex.def Info: pictures/website.png used on input line 791.
 (pdftex.def)             Requested size: 242.82503pt x 158.93163pt.
 
-Overfull \hbox (1.88004pt too wide) in paragraph at lines 785--786
+Overfull \hbox (1.88004pt too wide) in paragraph at lines 791--792
  [] 
  []
 
-[9 <./pictures/cd-tr-in2.png> <./pictures/concentration.png> <./pictures/websit
-e.png>] (./template.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 827.
+[9 <./pictures/website.png>] (./template.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 834.
  [10
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 827.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 834.
  (./template.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 827.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 827.
-Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: 8190928F8A641874AA97F704227ADECF;1541.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 834.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 834.
 
+
+Package rerunfilecheck Warning: File `template.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `template.out':
+(rerunfilecheck)             Before: 8190928F8A641874AA97F704227ADECF;1541
+(rerunfilecheck)             After:  E0E876178F3177C1F15C2597ACF73125;1423.
 
 LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 827.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 834.
  ) 
 Here is how much of TeX's memory you used:
- 8679 strings out of 492995
- 132954 string characters out of 6132705
- 256930 words of memory out of 5000000
- 11849 multiletter control sequences out of 15000+600000
- 55423 words of font info for 220 fonts, out of 8000000 for 9000
+ 9214 strings out of 492995
+ 138654 string characters out of 6132705
+ 266383 words of memory out of 5000000
+ 12348 multiletter control sequences out of 15000+600000
+ 43332 words of font info for 199 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,12n,38p,959b,372s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
-xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texl
-ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
-ve/2017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2017
-/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2017/texmf-
-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts
-/type1/urw/times/utmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw
-/times/utmri8a.pfb>
-Output written on template.pdf (10 pages, 3283967 bytes).
+ 31i,12n,38p,918b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{figure.36} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.33} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.27} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.23} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.17} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{section.38} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.37} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.35} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.28} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.26} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.25} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.24} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.22} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.18} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.16} has been referenced but does not exi
+st, replaced by a fixed one
+
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texl
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
+e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
+/2017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2017/t
+exmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2017/texmf-di
+st/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/t
+ype1/urw/times/utmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/t
+imes/utmri8a.pfb>
+Output written on template.pdf (10 pages, 3385873 bytes).
 PDF statistics:
- 263 PDF objects out of 1000 (max. 8388607)
- 227 compressed objects within 3 object streams
- 57 named destinations out of 1000 (max. 500000)
- 44276 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 276 PDF objects out of 1000 (max. 8388607)
+ 240 compressed objects within 3 object streams
+ 70 named destinations out of 1000 (max. 500000)
+ 37620 words of extra memory for PDF output out of 42996 (max. 10000000)
 

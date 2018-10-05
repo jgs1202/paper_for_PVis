@@ -1,6 +1,6 @@
 \BOOKMARK [1][]{section.2}{Introduction}{}% 1
 \BOOKMARK [1][]{section.4}{Related Work}{}% 2
-\BOOKMARK [2][]{subsection.5}{Graph Drawing method for group structure}{section.4}% 3
+\BOOKMARK [2][]{subsection.5}{Graph Drawing Method for Group Structure}{section.4}% 3
 \BOOKMARK [2][]{subsection.6}{Evaluation with Eye tracking}{section.4}% 4
 \BOOKMARK [1][]{section.7}{GIB Layouts}{}% 5
 \BOOKMARK [2][]{subsection.8}{ST-GIB}{section.7}% 6
@@ -9,18 +9,16 @@
 \BOOKMARK [2][]{subsection.11}{TR-GIB}{section.7}% 9
 \BOOKMARK [1][]{section.12}{Data for Experiment}{}% 10
 \BOOKMARK [2][]{subsection.13}{Data and Layout Generation}{section.12}% 11
-\BOOKMARK [2][]{subsection.15}{Generated Layouts}{section.12}% 12
-\BOOKMARK [2][]{subsection.16}{Computational Measures in Generated Data}{section.12}% 13
-\BOOKMARK [1][]{section.18}{User Experiments}{}% 14
-\BOOKMARK [2][]{subsection.19}{Tasks}{section.18}% 15
-\BOOKMARK [2][]{subsection.20}{Hypotheses}{section.18}% 16
-\BOOKMARK [2][]{subsection.21}{Experiment Design}{section.18}% 17
-\BOOKMARK [2][]{subsection.22}{Study Procedure}{section.18}% 18
-\BOOKMARK [2][]{subsection.24}{Participants}{section.18}% 19
-\BOOKMARK [1][]{section.25}{Experimental Results}{}% 20
-\BOOKMARK [2][]{subsection.26}{Task Results}{section.25}% 21
-\BOOKMARK [2][]{subsection.28}{Eye-tracking results}{section.25}% 22
-\BOOKMARK [1][]{section.34}{Discussion}{}% 23
-\BOOKMARK [1][]{section.35}{Website for the GIB layouts}{}% 24
-\BOOKMARK [1][]{section.37}{Conclusions}{}% 25
-\BOOKMARK [1][]{section.38}{Acknowledgments}{}% 26
+\BOOKMARK [2][]{subsection.15}{Computational Measures in Generated Data}{section.12}% 12
+\BOOKMARK [1][]{section.17}{User Experiments}{}% 13
+\BOOKMARK [2][]{subsection.18}{Tasks}{section.17}% 14
+\BOOKMARK [2][]{subsection.19}{Hypotheses}{section.17}% 15
+\BOOKMARK [2][]{subsection.20}{Experiment Design}{section.17}% 16
+\BOOKMARK [2][]{subsection.21}{Study Procedure}{section.17}% 17
+\BOOKMARK [2][]{subsection.23}{Participants}{section.17}% 18
+\BOOKMARK [1][]{section.24}{Experimental Results}{}% 19
+\BOOKMARK [2][]{subsection.25}{Task Results}{section.24}% 20
+\BOOKMARK [2][]{subsection.27}{Eye-tracking Results}{section.24}% 21
+\BOOKMARK [1][]{section.33}{Discussion}{}% 22
+\BOOKMARK [1][]{section.34}{Website for the GIB layouts}{}% 23
+\BOOKMARK [1][]{section.36}{Conclusion}{}% 24
