@@ -1,71 +1,227 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
-\bibitem{Isenberg:2017:VMC}
-P.~Isenberg, F.~Heimerl, S.~Koch, T.~Isenberg, P.~Xu, C.~Stolper, M.~Sedlmair,
-  J.~Chen, T.~M{\"o}ller, and J.~Stasko.
-\newblock {vispubdata.org: A Metadata Collection about {IEEE} Visualization
-  ({VIS}) Publications}.
-\newblock {\em IEEE Transactions on Visualization and Computer Graphics}, 23,
-  2017.
-\newblock To appear. doi: {{%
+\bibitem{andrienko2012visual}
+G.~Andrienko, N.~Andrienko, M.~Burch, and D.~Weiskopf.
+\newblock Visual analytics methodology for eye movement studies.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  18(12):2889--2898, 2012.
+
+\bibitem{gibweb}
+N.~Aoyama.
+\newblock A website gib.
+\newblock \url{http://gib.jgs-hd.com/}.
+
+\bibitem{468391}
+R.~A. Becker, S.~G. Eick, and A.~R. Wilks.
+\newblock Visualizing network data.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  1(1):16--28, March 1995. doi: {{%
+10\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}1109\discretionary{/}{%
+}{/}2945\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}468391}}
+
+
+\bibitem{bruls2000squarified}
+M.~Bruls, K.~Huizing, and J.~J. Van~Wijk.
+\newblock Squarified treemaps.
+\newblock In {\em Data visualization 2000}, pp. 33--42. Springer, 2000.
+
+\bibitem{burch2011evaluation}
+M.~Burch, N.~Konevtsova, J.~Heinrich, M.~Hoeferlin, and D.~Weiskopf.
+\newblock Evaluation of traditional, orthogonal, and radial tree diagrams by an
+  eye tracking study.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  17(12):2440--2448, 2011.
+
+\bibitem{chaturvedi2014group}
+S.~Chaturvedi, C.~Dunne, Z.~Ashktorab, R.~Zachariah, and B.~Shneiderman.
+\newblock Group-in-a-box meta-layouts for topological clusters and
+  attribute-based groups: Space-efficient visualizations of network communities
+  and their ties.
+\newblock In {\em Computer Graphics Forum}, vol.~33, pp. 52--68. Wiley Online
+  Library, 2014.
+
+\bibitem{clauset2004finding}
+A.~Clauset, M.~E. Newman, and C.~Moore.
+\newblock Finding community structure in very large networks.
+\newblock {\em Physical review E}, 70(6):066111, 2004.
+
+\bibitem{duchowski2007eye}
+A.~T. Duchowski.
+\newblock Eye tracking methodology.
+\newblock {\em Theory and practice}, 328, 2007.
+
+\bibitem{gansner2008efficient}
+E.~R. Gansner and Y.~Hu.
+\newblock Efficient node overlap removal using a proximity stress model.
+\newblock In {\em International Symposium on Graph Drawing}, pp. 206--217.
+  Springer, 2008.
+
+\bibitem{doi:10.1177/1473871612455749}
+H.~Gibson, J.~Faith, and P.~Vickers.
+\newblock A survey of two-dimensional graph layout techniques for information
+  visualisation.
+\newblock {\em Information Visualization}, 12(3-4):324--357, 2013. doi: {{%
+10\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}1177\discretionary{/}{%
+}{/}1473871612455749}}
+
+
+\bibitem{girvan2002community}
+M.~Girvan and M.~E. Newman.
+\newblock Community structure in social and biological networks.
+\newblock {\em Proceedings of the national academy of sciences},
+  99(12):7821--7826, 2002.
+
+\bibitem{Hachul:2005:ECF:2102325.2102348}
+S.~Hachul and M.~J\"{u}nger.
+\newblock An experimental comparison of fast algorithms for drawing general
+  large graphs.
+\newblock In {\em Proceedings of the 13th International Conference on Graph
+  Drawing}, GD'05, pp. 235--250. Springer-Verlag, Berlin, Heidelberg, 2006.
+  doi: {{%
+10\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}1007\discretionary{/}{%
+}{/}11618058\_22}}
+
+
+\bibitem{Hachul2007LargeGraphLA}
+S.~Hachul and M.~J{\"u}nger.
+\newblock Large-graph layout algorithms at work: An experimental study.
+\newblock {\em J. Graph Algorithms Appl.}, 11:345--369, 2007.
+
+\bibitem{harel2002graph}
+D.~Harel and Y.~Koren.
+\newblock Graph drawing by high-dimensional embedding.
+\newblock In {\em International symposium on graph drawing}, pp. 207--219.
+  Springer, 2002.
+
+\bibitem{jianu2014display}
+R.~Jianu, A.~Rusu, Y.~Hu, and D.~Taggart.
+\newblock How to display group information on node-link diagrams: an
+  evaluation.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  20(11):1530--1541, 2014.
+
+\bibitem{koren2003drawing}
+Y.~Koren, L.~Carmel, and D.~Harel.
+\newblock Drawing huge graphs by algebraic multigrid optimization.
+\newblock {\em Multiscale Modeling \& Simulation}, 1(4):645--673, 2003.
+
+\bibitem{kurzhals2014evaluating}
+K.~Kurzhals, B.~Fisher, M.~Burch, and D.~Weiskopf.
+\newblock Evaluating visual analytics with eye tracking.
+\newblock In {\em Proceedings of the Fifth Workshop on Beyond Time and Errors:
+  Novel Evaluation Methods for Visualization}, pp. 61--69. ACM, 2014.
+
+\bibitem{lloyd1982least}
+S.~Lloyd.
+\newblock Least squares quantization in pcm.
+\newblock {\em IEEE transactions on information theory}, 28(2):129--137, 1982.
+
+\bibitem{mcpherson2005discovering}
+J.~McPherson, K.-L. Ma, and M.~Ogawa.
+\newblock Discovering parametric clusters in social small-world graphs.
+\newblock In {\em Proceedings of the 2005 ACM symposium on Applied computing},
+  pp. 1231--1238. ACM, 2005.
+
+\bibitem{navlakha2009finding}
+S.~Navlakha, J.~White, N.~Nagarajan, M.~Pop, and C.~Kingsford.
+\newblock Finding biologically accurate clusterings in hierarchical tree
+  decompositions using the variation of information.
+\newblock In {\em Annual International Conference on Research in Computational
+  Molecular Biology}, pp. 400--417. Springer, 2009.
+
+\bibitem{netzel2014comparative}
+R.~Netzel, M.~Burch, and D.~Weiskopf.
+\newblock Comparative eye tracking study on node-link visualizations of
+  trajectories.
+\newblock {\em IEEE transactions on visualization and computer graphics},
+  20(12):2221--2230, 2014.
+
+\bibitem{7539393}
+R.~Netzel, M.~Hlawatsch, M.~Burch, S.~Balakrishnan, H.~Schmauder, and
+  D.~Weiskopf.
+\newblock An evaluation of visual search support in maps.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  23(1):421--430, Jan 2017. doi: {{%
 10\hspace{.1pt}\discretionary{.}{%
 }{.}\hspace{.4pt}1109\discretionary{/}{%
 }{/}TVCG\hspace{.1pt}\discretionary{.}{%
 }{.}\hspace{.4pt}2016\hspace{.1pt}\discretionary{.}{%
-}{.}\hspace{.4pt}2615308}}
+}{.}\hspace{.4pt}2598898}}
 
 
-\bibitem{Kindlmann:1999:SAG}
-G.~Kindlmann.
-\newblock Semi-automatic generation of transfer functions for direct volume
-  rendering.
-\newblock Master's thesis, Cornell University, USA, 1999.
+\bibitem{Newman:2010:NI:1809753}
+M.~Newman.
+\newblock {\em Networks: An Introduction}.
+\newblock Oxford University Press, Inc., New York, NY, USA, 2010.
 
-\bibitem{Kitware:2003}
-Kitware, Inc.
-\newblock {\em The Visualization Toolkit User's Guide}, January 2003.
+\bibitem{newman2004detecting}
+M.~E. Newman.
+\newblock Detecting community structure in networks.
+\newblock {\em The European Physical Journal B}, 38(2):321--330, 2004.
 
-\bibitem{Lorensen:1987:MCA}
-W.~E. Lorensen and H.~E. Cline.
-\newblock Marching cubes: A high resolution {3D} surface construction
-  algorithm.
-\newblock {\em SIGGRAPH Computer Graphics}, 21(4):163--169, Aug. 1987. doi: {{%
-10\hspace{.1pt}\discretionary{.}{%
-}{.}\hspace{.4pt}1145\discretionary{/}{%
-}{/}37402\hspace{.1pt}\discretionary{.}{%
-}{.}\hspace{.4pt}37422}}
+\bibitem{olsen2012tobii}
+A.~Olsen.
+\newblock The tobii i-vt fixation filter.
+\newblock {\em Tobii Technology}, 2012.
 
+\bibitem{onoue2017optimal}
+Y.~Onoue and K.~Koyamada.
+\newblock Optimal tree reordering for group-in-a-box graph layouts.
+\newblock In {\em SIGGRAPH Asia 2017 Symposium on Visualization}, p.~13. ACM,
+  2017.
 
-\bibitem{Max:1995:OMF}
-N.~Max.
-\newblock Optical models for direct volume rendering.
-\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
-  1(2):99--108, June 1995. doi: {{%
-10\hspace{.1pt}\discretionary{.}{%
-}{.}\hspace{.4pt}1109\discretionary{/}{%
-}{/}2945\hspace{.1pt}\discretionary{.}{%
-}{.}\hspace{.4pt}468400}}
+\bibitem{pohl2009comparing}
+M.~Pohl, M.~Schmitt, and S.~Diehl.
+\newblock Comparing the readability of graph layouts using eyetracking and
+  task-oriented analysis.
+\newblock In {\em Computational Aesthetics}, pp. 49--56, 2009.
 
+\bibitem{purchase1997aesthetic}
+H.~Purchase.
+\newblock Which aesthetic has the greatest effect on human understanding?
+\newblock In {\em International Symposium on Graph Drawing}, pp. 248--261.
+  Springer, 1997.
 
-\bibitem{Nielson:1991:TAD}
-G.~M. Nielson and B.~Hamann.
-\newblock The asymptotic decider: Removing the ambiguity in marching cubes.
-\newblock In {\em Proc.\ Visualization}, pp. 83--91. IEEE Computer Society, Los
-  Alamitos, 1991. doi: {{%
-10\hspace{.1pt}\discretionary{.}{%
-}{.}\hspace{.4pt}1109\discretionary{/}{%
-}{/}VISUAL\hspace{.1pt}\discretionary{.}{%
-}{.}\hspace{.4pt}1991\hspace{.1pt}\discretionary{.}{%
-}{.}\hspace{.4pt}175782}}
+\bibitem{purchase1998performance}
+H.~C. Purchase.
+\newblock Performance of layout algorithms: Comprehension, not computation.
+\newblock {\em Journal of Visual Languages \& Computing}, 9(6):647--657, 1998.
 
+\bibitem{purchase2002empirical}
+H.~C. Purchase, D.~Carrington, and J.-A. Allder.
+\newblock Empirical evaluation of aesthetics-based graph layout.
+\newblock {\em Empirical Software Engineering}, 7(3):233--255, 2002.
 
-\bibitem{Wyvill:1986:DSS}
-G.~Wyvill, C.~McPheeters, and B.~Wyvill.
-\newblock Data structure for \emph{soft} objects.
-\newblock {\em The Visual Computer}, 2(4):227--234, Aug. 1986. doi: {{%
-10\hspace{.1pt}\discretionary{.}{%
-}{.}\hspace{.4pt}1007\discretionary{/}{%
-}{/}BF01900346}}
+\bibitem{rodrigues2011group}
+E.~M. Rodrigues, N.~Milic-Frayling, M.~Smith, B.~Shneiderman, and D.~Hansen.
+\newblock Group-in-a-box layout for multi-faceted analysis of communities.
+\newblock In {\em Privacy, Security, Risk and Trust (PASSAT) and 2011 IEEE
+  Third Inernational Conference on Social Computing (SocialCom), 2011 IEEE
+  Third International Conference on}, pp. 354--361. IEEE, 2011.
 
+\bibitem{saket2014group}
+B.~Saket, P.~Simonetto, and S.~Kobourov.
+\newblock Group-level graph visualization taxonomy.
+\newblock {\em arXiv preprint arXiv:1403.7421}, 2014.
+
+\bibitem{shneiderman1992tree}
+B.~Shneiderman.
+\newblock Tree visualization with tree-maps: 2-d space-filling approach.
+\newblock {\em ACM Transactions on graphics (TOG)}, 11(1):92--99, 1992.
+
+\bibitem{Vehlow2017VisualizingGS}
+C.~Vehlow, F.~Beck, and D.~Weiskopf.
+\newblock Visualizing group structures in graphs: A survey.
+\newblock {\em Comput. Graph. Forum}, 36:201--225, 2017.
+
+\bibitem{wakita2007finding}
+K.~Wakita and T.~Tsurumi.
+\newblock Finding community structure in mega-scale social networks.
+\newblock In {\em Proceedings of the 16th international conference on World
+  Wide Web}, pp. 1275--1276. ACM, 2007.
 
 \end{thebibliography}

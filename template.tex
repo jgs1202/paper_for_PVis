@@ -198,13 +198,6 @@ We assume that each GIB has advantage and disadvantage, so we aim to evaluate th
 We also provide some evidence to support our results using the eye tracking data with an aim to clarify which elements in a visualization affect the results.
 In addition, we make these 4 GIB layouts available to the public. Our website provides GIB images~\cite{gibweb}, as well as further analysis of the network. This can help researchers in analyzing their network data and possibly lead them to new findings.
 
-\begin{figure*}[t]
-  \begin{center}
-    \includegraphics[width=1\textwidth]{pictures/examples.png}
-    \caption{Examples of group-in-a-box (GIB) layouts. Four GIB layout look different but the original data is the same. (a)~ST-GIB is based on treemapping. (b)~CD-GIB considers the information of links connecting groups. (c)~FD-GIB arranges the boxes with force-directed layout. (d)~TR-GIB is what we reordered the rectangles in ST-GIB to minimize the group proximity.}
-    \label{GIB-examples}
-  \end{center}
-\end{figure*}
 
 %
 \section{Related Work}
@@ -250,6 +243,13 @@ Eye-track data is often enormous and hard to analyze. Therefore, this spatiotemp
 For effective and meaningful analytics, it is important to know what kind of methods are most appropriate, and these studies can give researchers some hints.
 We collect gaze data during the tasks in order to reveal which elements in a visualization affect performance. We suppose that this study becomes more meaningful by following these analysis methods.
 
+\begin{figure*}[t]
+  \begin{center}
+    \includegraphics[width=1\textwidth]{pictures/examples.png}
+    \caption{Examples of group-in-a-box (GIB) layouts. Four GIB layout look different but the original data is the same. (a)~ST-GIB is based on treemapping. (b)~CD-GIB considers the information of links connecting groups. (c)~FD-GIB arranges the boxes with force-directed layout. (d)~TR-GIB is what we reordered the rectangles in ST-GIB to minimize the group proximity.}
+    \label{GIB-examples}
+  \end{center}
+\end{figure*}
 
 \section{GIB Layouts}
 %{}
@@ -406,7 +406,7 @@ Regarding the screen space efficiency, it was low for ST-GIB and TR-GIB, followe
 Furthermore, FD-GIB yielded the best aspect-ratio, followed by ST-GIB and TR-GIB.
 ST-GIB and TR-GIB performed well in space efficiency and aspect ratio, whereas CD-GIB and FD-GIB performed well in terms of either space efficiency or aspect ratio.
 
-As a summary, TR-GIB produced good results for all measures --- especially for edge crossing and uniform edge length.
+As a summary, TR-GIB produced good results for all measures---especially for edge crossing and uniform edge length.
 CD-GIB and FD-GIB were poor in some measures, so we expect there are some trade-offs in the user study.
 ST-GIB produced average results, except it had the most edge crossings, which could interrupt task performance.
 
@@ -437,7 +437,7 @@ We selected our tasks as follows.
 
 Task 1 is a kind of GOTs from Vehlow's taxonomy and is about the number of groups represented. It requires no node or edge information but does require aggregate group information. We expect this task to determine which layout prompts understanding of the whole structure best.
 
-Task 2 is from the GVTs and requires node information --- specifically the number of nodes. A GIB layout should be able to help users to estimate the size of a group easily, and this task can reveal which layout is the best in this respect.
+Task 2 is from the GVTs and requires node information---specifically the number of nodes. A GIB layout should be able to help users to estimate the size of a group easily, and this task can reveal which layout is the best in this respect.
 
 Task 3 is a GNT, which requires intra-link information. An intra-link connects a node to another node in the same group, whereas a group inter-link connects a node to a node from another group.
 In a layout with good representation of intra-links, users can easily understand the relationship within a group, which is often critical in the analysis process. We expect this task to derive the best layout for analysis within a group.
@@ -629,7 +629,7 @@ Another method is visual analytics with some visualizations for eye-track data s
 There are also several studies providing guidelines on the analysis of eye tracking data~\cite{andrienko2012visual,duchowski2007eye,kurzhals2014evaluating}. In order to analyze our data, we aim to use these various methods. We would like to emphasize that the main purpose we use eye tracking for in this study is finding which elements in a GIB layout help or interrupt task performance. Therefore, in this section, we describe our eye-tracking analysis based on our hypotheses considering visual attributes in GIB.
 
 {\bf Hypothesis~1.} This hypothesis can be confirmed by our experiment where ST-GIB achieved the highest accuracy.
-To verify our hypothesis, we computed an eye-track measure --- gaze count.
+To verify our hypothesis, we computed an eye-track measure---gaze count.
 The result is shown in Table.~\ref{gazecount}.
 We conducted a statistical analysis using the Friedman test as described in Section~\ref{taskResult}.
 We found a significant difference in the gaze counts for the four GIB layouts ($p=0.040$). A post-hoc Wilcoxon test shows that ST-GIB did not have as many gaze counts as the others, where $p<0.001$. Fewer gaze counts indicate that there were few recounting or some multiple counts at the same time, where participants might easily count the number of groups. Therefore, this eye track measure supports this hypothesis and we suppose the well-aligned boxes can help with the counting.
@@ -647,6 +647,19 @@ We found a significant difference in the gaze counts for the four GIB layouts ($
 \end{table}
 
 {\bf Hypothesis~2.} ST-GIB achieved the best result for Task 2, which supports this hypothesis. As shown in Table.~\ref{gazecount}, ST-GIB and FD-GIB did not require as many gazes as CD-GIB and TR-GIB. From the Friedman test, there were significant differences in the number of gazes between ST-GIB and CD-GIB ($p=0.002$), between FD-GIB and CD-GIB ($p=0.002$), and between FD-GIB and TR-GIB ($p<0.001$). Another measure, {\bf DB} shows evidence of this hypothesis and is shown in Table~\ref{table-dist2}. We observed a significant difference in this measure ($p=0.009$), and this in ST-GIB was significantly lower than in CD-GIB ($p=0.027$) and FD-GIB ($p=0.006$). This indicates that participants could easily reach the correct answer in ST-GIB, and we suppose this happened due to the boxes being sorted by size.
+
+\begin{table}[b]
+  \begin{center}
+   \caption{Gaze count of distractors in Task~2 (standard deviation)}
+  \label{table-dist2}
+    \begin{tabular}{|c|c|c|c|c|} \hline
+      & ST-GIB & CD-GIB & FD-GIB & TR-GIB \\ \hline
+      % Task 1 & 12.5 (5.49) & 14.4 (6.79) & 15.6 (6.85) & 14.1 (6.31) \\ \hline
+      {\bf DB} & 3.6 (3.59) & 3.9 (3.67) & 4.1 (3.48) & 3.7 (3.06) \\ \hline
+      {\bf DA}  & 2.84 (3.33) & 2.99 (3.67) & 4.1 (3.48) & 3.7 (3.06) \\ \hline
+    \end{tabular}
+  \end{center}
+\end{table}
 
 {\bf Hypothesis 3.} This hypothesis is supported by the results of Task~2 where CD-GIB was the worst for the correctness. In CD-GIB, it is inferred that some visual attributes prevented the participants from guessing the area visually.
 We supposed that this is due to the poor aspect ratio of boxes, which might have confused participants. We also found a clue to reveal which element in this layout interrupted the task performance in a gaze flow map shown in Figure~\ref{task2flow}.
@@ -685,17 +698,8 @@ Since we draw the edges with gray color, the number of edges could be seen as th
 Moreover, a box in FD-GIB is much smaller than for the others, so this trend might be particularly remarkable since the degree of aggregation become greater.
 % Therefore, we can say that FD-GIB would be effective to understand the abstract information about intra-relationships such as the number of intra-links, but for more concrete information another layout would be more effective such as TR-GIB.
 
-\begin{table}[b]
-  \begin{center}
-   \caption{Gaze count of distractors in Task~2 (standard deviation)}
-  \label{table-dist2}
-    \begin{tabular}{|c|c|c|c|c|} \hline
-      & ST-GIB & CD-GIB & FD-GIB & TR-GIB \\ \hline
-      % Task 1 & 12.5 (5.49) & 14.4 (6.79) & 15.6 (6.85) & 14.1 (6.31) \\ \hline
-      {\bf DB} & 3.6 (3.59) & 3.9 (3.67) & 4.1 (3.48) & 3.7 (3.06) \\ \hline
-      {\bf DA}  & 2.84 (3.33) & 2.99 (3.67) & 4.1 (3.48) & 3.7 (3.06) \\ \hline
-    \end{tabular}
-  \end{center}
+  
+\begin{table}[b]  
   \begin{center}
    \caption{Gaze count of distractors in Task~3 (standard deviation)}
   \label{table-dist3}
@@ -755,7 +759,7 @@ This indicates that the small box in FD-GIB was enough to complete this task and
 The smallest {\bf DA} also mean that the shortest comparison process after the first gaze on the correct answer.
 With respect to the small boxes in FD-GIB, in addition to this result, we suppose that participants could solve this task only by seeing the color of a box, which represents the density of links.
 We set this task to reveal which layout is the best for representing intra-links.
-From the studies of the survey about graph drawing for group structure~\cite{Vehlow2017VisualizingGS,saket2014group}, there is another task suitable for this purpose --- finding the vertex with the highest degree in a particular group.
+From the studies of the survey about graph drawing for group structure~\cite{Vehlow2017VisualizingGS,saket2014group}, there is another task suitable for this purpose---finding the vertex with the highest degree in a particular group.
 This task requires more concrete information than we collected, and FD-GIB might be not appropriate for this task because of its small boxes and poor uniform edge length.
 We revealed the effectiveness of FD-GIB and TR-GIB in this task, but some computation measure showed the difference between them so another task will be interesting.
 
